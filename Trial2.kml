@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="new_data_poly" id="new_data_poly">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="Shp_length" type="float"></SimpleField>
+	<SimpleField name="Hatch_Area" type="float"></SimpleField>
+	<SimpleField name="WKT_Geom" type="string"></SimpleField>
+</Schema>
+<Folder><name>new_data_poly</name>
+  <Placemark id="new_data_poly.1">
+	<Style><LineStyle><color>FF03036f</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Shp_length">31</SimpleData>
+		<SimpleData name="Hatch_Area">5</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777225380717,-37.004591921508 174.777073137206,-37.0046546100124 174.777073137206,-37.0046474456119 174.777225380717,-37.004591921508</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.2">
+	<Style><LineStyle><color>FF0000e8</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Shp_length">11</SimpleData>
+		<SimpleData name="Hatch_Area">2</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777078510507,-37.0047316273177 174.777060599506,-37.0046886409147 174.777069555006,-37.0046832676143 174.777078510507,-37.0047316273177</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.3">
+	<Style><LineStyle><color>FF02027e</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Shp_length">26</SimpleData>
+		<SimpleData name="Hatch_Area">9</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777101794808,-37.0047298362176 174.777227171817,-37.0046886409147 174.777232545117,-37.0047011786156 174.777101794808,-37.0047298362176</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.4">
+	<Style><LineStyle><color>FF02028d</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Shp_length">24</SimpleData>
+		<SimpleData name="Hatch_Area">6</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777311353523,-37.0045722194067 174.777295233622,-37.0046743121137 174.777284487021,-37.0046689388134 174.777311353523,-37.0045722194067</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.5">
+	<Style><LineStyle><color>FF0101ac</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Shp_length">16</SimpleData>
+		<SimpleData name="Hatch_Area">7</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777391953028,-37.0046653566131 174.777395535229,-37.0046725210136 174.777323891224,-37.0046975964153 174.777322100124,-37.0046868498146 174.777391953028,-37.0046653566131</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.6">
+	<Style><LineStyle><color>FF030351</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Shp_length">49</SimpleData>
+		<SimpleData name="Hatch_Area">13</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777646289246,-37.0044987843016 174.777470761434,-37.0046546100124 174.777456432633,-37.0046528189122 174.777646289246,-37.0044987843016</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.7">
+	<Style><LineStyle><color>FF030360</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Shp_length">42</SimpleData>
+		<SimpleData name="Hatch_Area">17</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.77770539555,-37.0045990859085 174.777486881335,-37.004663565513 174.777486881335,-37.0046528189122 174.777691066749,-37.0045972948084 174.77770539555,-37.0045990859085</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.8">
+	<Style><LineStyle><color>FF0101ca</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Shp_length">14</SimpleData>
+		<SimpleData name="Hatch_Area">4</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777692857849,-37.0045596817058 174.777673155748,-37.004504157602 174.777680320148,-37.0044987843016 174.777694648949,-37.0045453529048 174.777692857849,-37.0045596817058</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.9">
+	<Style><LineStyle><color>FF0101bb</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Shp_length">15</SimpleData>
+		<SimpleData name="Hatch_Area">4</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.77771076885,-37.0045077398022 174.777741217553,-37.0045650550062 174.777741217553,-37.0045650550062 174.777726888752,-37.0045632639061 174.77771076885,-37.0045077398022</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.10">
+	<Style><LineStyle><color>FF02027e</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Shp_length">26</SimpleData>
+		<SimpleData name="Hatch_Area">17</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.777954358467,-37.0044038559951 174.778086899876,-37.0043859449938 174.778086899876,-37.0044020648949 174.777970478368,-37.0044128114957 174.777954358467,-37.0044038559951</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.11">
+	<Style><LineStyle><color>FF040432</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Shp_length">53</SimpleData>
+		<SimpleData name="Hatch_Area">26</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.778061824475,-37.0044772911001 174.778056451174,-37.0044844555006 174.777791368356,-37.0045722194067 174.77784868356,-37.0045381885043 174.778061824475,-37.0044772911001</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.12">
+	<Style><LineStyle><color>FF02029d</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Shp_length">18</SimpleData>
+		<SimpleData name="Hatch_Area">8</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.779399776267,-37.0040886223733 174.779385447466,-37.0040778757726 174.779363954265,-37.0040205605686 174.779376491965,-37.0040151872682 174.779399776267,-37.0040886223733</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.13">
+	<Style><LineStyle><color>FF000000</color><width>1.02047</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Shp_length">51</SimpleData>
+		<SimpleData name="Hatch_Area">37</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.779482166873,-37.0041387731768 174.779709636588,-37.0040169783684 174.779713218789,-37.0040313071693 174.779501868974,-37.0041459375773 174.779482166873,-37.0041387731768</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.14">
+	<Style><LineStyle><color>FF0000d9</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Shp_length">12</SimpleData>
+		<SimpleData name="Hatch_Area">5</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.779428433869,-37.0041101155748 174.77944813597,-37.0041513108776 174.77943738937,-37.0041548930779 174.779417687268,-37.0041208621755 174.779428433869,-37.0041101155748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.15">
+	<Style><LineStyle><color>FF040423</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Shp_length">56</SimpleData>
+		<SimpleData name="Hatch_Area">29</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.779557393078,-37.0042283281829 174.779560975278,-37.0042122082818 174.779772325093,-37.0040653380717 174.779790236094,-37.0040653380717 174.779557393078,-37.0042283281829</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="new_data_poly.16">
+	<Style><LineStyle><color>FF050514</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_data_poly">
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Shp_length">113</SimpleData>
+		<SimpleData name="Hatch_Area">68</SimpleData>
+		<SimpleData name="WKT_Geom">MultiPolyg</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>174.778117348579,-37.0046707299135 174.77755315204,-37.0048910352287 174.77755315204,-37.0048802886279 174.778104810878,-37.0046617744129 174.778117348579,-37.0046707299135</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
